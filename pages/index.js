@@ -109,9 +109,9 @@ export default function Home() {
 
       <div className="bg-dark text-secondary px-4 py-5 text-center">
         <div className="py-5">
-          <h1 className="display-5 fw-bold text-white">Dark mode hero</h1>
+          <h1 className="display-5 fw-bold text-white">This is a hero</h1>
           <div className="col-lg-6 mx-auto">
-            <p className="fs-5 mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+            <p className="fs-5 mb-4">Not even a superhero? Pathetic. How am I going to sell this with only a &quot;hero&quot;?</p>
             <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
               <Button type="button" variant="outline-info" className="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Custom button</Button>
               <Button type="button" variant="outline-light" className="btn btn-outline-light btn-lg px-4">Secondary</Button>
