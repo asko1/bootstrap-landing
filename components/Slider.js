@@ -3,7 +3,7 @@ import { Carousel, Image } from "react-bootstrap"
 
 export default function Slider () {
     return (
-      <Carousel variant="">
+      <Carousel variant="" id="slider">
         
         <Carousel.Item interval={10000}>
           <Image

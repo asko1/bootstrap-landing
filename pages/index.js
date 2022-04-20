@@ -122,7 +122,7 @@ export default function Home() {
 
       <Slider></Slider>
 
-      <div className="container marketing bg-dark text-white">
+      <div className="container marketing bg-dark text-white" id="textBlock">
         <div className="row featurette">
           <div className="col-md-7">
             <h2 className="featurette-heading">just buy this product. <span className="text-muted">please.</span></h2>
